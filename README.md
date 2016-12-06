@@ -1,2 +1,1 @@
-# trie-recursive
-Recursive implementation of Trie
+Recursive implementation of Trie in Java.
